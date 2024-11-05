@@ -10,4 +10,8 @@ class User
         User(int id):
             id{id}
         {}
+        void show()
+        {
+            
+        }
 };
